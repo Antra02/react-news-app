@@ -1,2 +1,1 @@
-# react-news-app
-# react-news-app
+React News App
